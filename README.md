@@ -1,5 +1,5 @@
 # Windows Log Analysis - Suspicious Account Creation & Credential Manipulation
-**##Scenario**
+** ##Scenario**
 Following a suspected security event involving unauthorized system access, an investigation was initiated to analyze Windows Security Logs for evidence of attacker activity, including account creation and credential manipulation
 
 **##Objectives**
